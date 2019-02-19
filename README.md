@@ -4,4 +4,5 @@ https://github.com/samifarooqui/DataAnalystNanodegree/tree/master/Test%20a%20Per
 # Exploratory Data Analysis
 https://github.com/samifarooqui/DataAnalystNanodegree/tree/master/Exploratory%20Data%20Analysis
 # Data Wrangling
+https://github.com/samifarooqui/DataAnalystNanodegree/tree/master/Wrangle%20Data
 # Data Story Telling
